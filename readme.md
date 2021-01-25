@@ -1,5 +1,7 @@
 Предположим что с бэкэнда на фронт изначально прилетели секции в следующем порядке
 
+```
+
 ⬡ Note 1 , sourceOfContent: 'orginalHtml' }
 
 ⬡ Note 2 , sourceOfContent: 'orginalHtml' }
@@ -7,6 +9,8 @@
 ⬡ Note 3 , sourceOfContent: 'orginalHtml' }
 
 ⬡ Note 4 , sourceOfContent: 'orginalHtml' }
+
+```
 
 ## Изменение секций местами (swap) 
 
