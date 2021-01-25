@@ -264,7 +264,7 @@ resultArray = [
 
 5) `⬡ Note 4 { sourceOfContent: 'orginalHtml' }`
 
-есть в bA[] & sourceOfcontent = originalHtml => правило (2)
+есть в `bA[]` & `sourceOfcontent` = `originalHtml` => правило (2)
 
 
 
@@ -295,7 +295,7 @@ bA = [
 
 Теперь мы идем по `bA[]` и подмердживаем все что не помечено по следующему алгоритму
 
-Если не marked то берем прев ноду и вставляем сразу за нашим элемент в result array
+Если не marked то берем прев ноду и вставляем сразу за нашим элемент в `resultArray`
 
 Пробуем итерироватсья по новому `bA[]`:
 
