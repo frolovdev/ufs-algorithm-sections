@@ -2,13 +2,13 @@
 
 ```
 
-⬡ Note 1 , sourceOfContent: 'orginalHtml' }
+⬡ Note 1 { sourceOfContent: 'orginalHtml' }
 
-⬡ Note 2 , sourceOfContent: 'orginalHtml' }
+⬡ Note 2 { sourceOfContent: 'orginalHtml' }
 
-⬡ Note 3 , sourceOfContent: 'orginalHtml' }
+⬡ Note 3 { sourceOfContent: 'orginalHtml' }
 
-⬡ Note 4 , sourceOfContent: 'orginalHtml' }
+⬡ Note 4 { sourceOfContent: 'orginalHtml' }
 
 ```
 
